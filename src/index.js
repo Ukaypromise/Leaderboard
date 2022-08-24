@@ -1,6 +1,5 @@
 import './style.css';
-import data from "./modules/data";
-
+import data from './modules/data.js';
 
 document.getElementById('score-table').innerHTML = data
   .map(

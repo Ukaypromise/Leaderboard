@@ -1,7 +1,8 @@
 # Leaderboard
 Leaderboard list app, using webpack and ES6 modules.  The projeect consume the Leaderboard API using JavaScript async and await methods.
 
-![Leaderboard](../leader.png)
+![leader](https://user-images.githubusercontent.com/85847249/186546516-02d4c776-92e5-473c-96f3-6cca8f4d9f79.png)
+
 ## Built With
 
 - HTML

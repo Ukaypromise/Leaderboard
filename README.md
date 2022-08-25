@@ -38,7 +38,7 @@ npx stylelint "**/*.{css,scss}"
 npx eslint .
 `
 
-## Authors
+## Author
 👤 **Promise Uka**
 
 - GitHub: [@Ukaypromise](https://github.com/Ukaypromise/)
@@ -47,7 +47,7 @@ npx eslint .
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+Contributions, [issues](https://github.com/Ukaypromise/Leaderboard/issues), and feature requests are welcome!
 
 ## Show your support
 
@@ -58,7 +58,3 @@ Give a ⭐️ if you like this project!
 - Hat tip to anyone whose code was used
 - Microverse
 
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
